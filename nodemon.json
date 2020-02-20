@@ -1,0 +1,4 @@
+{
+  "verbose": true,
+  "ignore": ["test/*", "build/*", "docs/*", "node_modules/*", "examples/*"]
+}
